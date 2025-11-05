@@ -5,7 +5,7 @@
 
 ╰┈➤ Olá, visitante! Eu me chamo Scarlletti, tenho 22 anos e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas (2º semestre).
 
-╰┈➤ Posso dizer que sou uma pessoa calma, autodidata, ambiciosa e de fácil convívio.
+╰┈➤ Sou uma pessoa calma, autodidata, ambiciosa e de fácil convívio.
 
 ╰┈➤ Tenho uma grande paixão por segurança ofensiva e estou dedicadamente estudando e costruindo bases sólidas na área para enfim conseguir o meu tão sonhado primeiro emprego.
 
