@@ -10,7 +10,7 @@
 
 <br>
 
-╰┈➤ Olá, visitante! Eu me chamo Scarlletti, tenho 22 anos e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas (2º semestre).
+╰┈➤ Olá, visitante! Eu me chamo Scarlletti, tenho 22 anos e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas (3º semestre).
 
 ╰┈➤ Sou uma pessoa calma, autodidata, ambiciosa e de fácil convívio.
 
