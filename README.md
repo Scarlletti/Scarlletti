@@ -10,13 +10,7 @@
 
 <br>
 
-╰┈➤ Olá! Eu me chamo Scarlletti, tenho 22 anos e atualmente faço faculdade de Análise e Desenvolvimento de Sistemas (3º semestre).
-
-╰┈➤ Sou uma pessoa calma, autodidata, ambiciosa e de fácil convívio.
-
-╰┈➤ Tenho uma grande paixão por segurança ofensiva e estou dedicadamente estudando e costruindo bases sólidas na área para enfim conseguir o meu tão sonhado primeiro emprego.
-
-╰┈➤ Acompanhe a minha jornada através do meu github! ❤︎
+╰┈➤ Olá! Me chamo Scarlletti, tenho 22 anos e atualmente curso Análise e Desenvolvimento de Sistemas, no 3º semestre. Sou uma pessoa calma, autodidata, ambiciosa e de fácil convívio. Tenho uma grande paixão por segurança ofensiva e venho me dedicando aos estudos e à construção de uma base sólida na área, com o objetivo de conquistar meu primeiro emprego. Acompanhe minha jornada e meus projetos através do meu GitHub. ❤︎
 
 <br>
 
