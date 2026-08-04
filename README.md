@@ -10,7 +10,7 @@
 
 <br>
 
-╰┈➤ Olá! Me chamo Scarlletti, tenho 22 anos e atualmente curso Análise e Desenvolvimento de Sistemas, no 3º semestre. Sou uma pessoa calma, autodidata, ambiciosa e de fácil convívio. Tenho uma grande paixão por segurança ofensiva e venho me dedicando aos estudos e à construção de uma base sólida na área, com o objetivo de conquistar meu primeiro emprego. Acompanhe minha jornada e meus projetos através do meu GitHub. ❤︎
+╰┈➤ Hello! My name is Scarlletti, I am 23 years old, and I am currently in my final semester of the Systems Analysis and Development program. I have a great passion for offensive security and have been dedicating myself to studying and building a solid foundation in the field, developing myself as an ethical hacker. Follow my journey and my projects on my GitHub. ❤︎
 
 <br>
 
@@ -23,9 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -52,17 +49,5 @@
 
 ###
 <br>
-
-## ୧ ‧ ₊˚ Social Medias 🌙  ִֶָ ⋅ ☆
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
 
 ###
