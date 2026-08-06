@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/fd59f375-7540-44e2-9eec-10e166f58948)
 
-## ⋆. 𐙚˚࿔ cibersecurity girl 𝜗𝜚˚⋆
+## ⋆. 𐙚˚࿔ coder girl 𝜗𝜚˚⋆
 
 <br>
 
@@ -10,7 +10,10 @@
 
 <br>
 
-╰┈➤ Hello! My name is Scarlletti, I am 23 years old, and I am currently in my final semester of the Systems Analysis and Development program. I have a great passion for offensive security and have been dedicating myself to studying and building a solid foundation in the field, developing myself as an ethical hacker. Follow my journey and my projects on my GitHub. ❤︎
+╰┈➤ Hello! I'm Scarlletti, a 23-year-old aspiring software developer currently in my final semester of the Systems Analysis and Development program. I love creating cute, functional applications and am constantly learning and improving my skills to build a strong foundation in software development.
+
+Follow my journey and check out my projects on GitHub. ❤︎
+
 
 <br>
 
