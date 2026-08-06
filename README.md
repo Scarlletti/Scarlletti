@@ -10,7 +10,7 @@
 
 <br>
 
-╰┈➤ Hello! I'm Scarlletti, a 23-year-old aspiring software developer currently in my final semester of the Systems Analysis and Development program. I love creating cute, functional applications and am constantly learning and improving my skills to build a strong foundation in software development.
+╰┈➤ Hello! I'm Scarlletti, a 23-year-old software developer currently in my final semester of the Systems Analysis and Development program. I love creating cute, functional applications and am constantly learning and improving my skills to build a strong foundation in software development.
 
 Follow my journey and check out my projects on GitHub. ❤︎
 
