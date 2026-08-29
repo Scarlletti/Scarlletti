@@ -1,56 +1,88 @@
-![banner](https://github.com/user-attachments/assets/fd59f375-7540-44e2-9eec-10e166f58948)
-
-## ⋆. 𐙚˚࿔ coder girl 𝜗𝜚˚⋆
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D6F5&vCenter=true&width=435&lines=Hi!+Welcome+to+my+profile+%F0%96%B9%AD)](https://git.io/typing-svg)
-
-##
-
-<br>
-
-╰┈➤ Hello! I'm Scarlletti, a 23-year-old software developer currently in my final semester of the Systems Analysis and Development program. I love creating cute, functional applications and am constantly learning and improving my skills to build a strong foundation in software development.
-
-Follow my journey and check out my projects on GitHub. ❤︎
-
-
-<br>
-
-## 𖥻 ׁ ׅ Tech Stack ! ׁ ׅ 🪷
-
-<br>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://github.com/user-attachments/assets/fd59f375-7540-44e2-9eec-10e166f58948" alt="banner" width="100%" />
 </div>
 
-###
-<br>
+<h1 align="center">## ⋆. 𐙚˚࿔ cibersecurity girl 𝜗𝜚˚⋆</h1>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=560&height=40&lines=Hi!+Welcome+to+my+profile+%E2%99%A1;Boas-vindas+ao+meu+perfil+%E2%99%A1" alt="welcome"/>
+</div>
+
+---
+
+### ⋆｡˚ ◌ About me · Sobre mim ◌ ˚｡⋆
+
+╰──➤ Hello! I'm Scarlletti, a 23-year-old software development student in my
+final semester of Systems Analysis and Development. I love creating cute,
+functional applications — and now I'm bringing that same curiosity to
+cybersecurity, learning through CTFs and hands-on labs.
+
+╰──➤ Currently looking for internship/junior opportunities in security, where
+my dev background helps me read code the way an attacker would.
+
+*╰──➤ Oi! Eu sou a Scarlletti, tenho 23 anos e estou no último semestre de
+Análise e Desenvolvimento de Sistemas. Amo criar aplicações fofas e
+funcionais — e agora levo essa curiosidade para a cibersegurança, aprendendo
+com CTFs e laboratórios práticos.*
+
+*╰──➤ Em busca de oportunidades de estágio/júnior em segurança, onde minha
+base em dev me ajuda a enxergar o código como um atacante enxergaria.*
+
+Follow my journey and check out my projects below. ♥
+
+---
+
+### 𖥻 ׁ ׅ Tech Stack ! ׁ ׅ 🪷
+
+<div align="center">
+
+**🌸 Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" />
+
+**🛠️ Back-end**
+
+<img src="https://skillicons.dev/icons?i=python,c,cs,nodejs,express" />
+
+**🗄️ Database**
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+**💻 Systems**
+
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+
+</div>
+
+---
+
+### 🌱 Currently learning · Aprendendo agora
+
+- Security fundamentals & CTF challenges on **TryHackMe** and **Hack The Box**
+- *Fundamentos de segurança e desafios de CTF no TryHackMe e Hack The Box*
+
+<div align="center">
+  <a href="https://tryhackme.com/p/Scarlletti"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/019e40a2-df06-7232-ba71-6caee5e41289"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111" alt="Hack The Box" /></a>
+</div>
+
+---
+
+### 📁 Projects · Projetos
+
+🚧 *coming soon — cute and slightly dangerous things in the making*
+🚧 </br>
+
+🚧 *em breve — coisas fofas e levemente perigosas a caminho* 🚧
+
+---
+
+### 📫 Contact · Contato
+
+<div align="center">
+  <a href="mailto:alyyyxx00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tryhackme.com/p/Scarlletti"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/019e40a2-df06-7232-ba71-6caee5e41289"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111" alt="Hack The Box" /></a>
+</div>
+
+---
