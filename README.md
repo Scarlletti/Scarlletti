@@ -5,7 +5,7 @@
 <h1 align="center">## ⋆. 𐙚˚࿔ It girl 𝜗𝜚˚⋆</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=560&height=40&lines=Hi!+Welcome+to+my+profile+%E2%99%A1;Bem-vindo (a)+ao+meu+perfil+%E2%99%A1" alt="welcome"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=560&height=40&lines=Hi!+Welcome+to+my+profile+%E2%99%A1;Bem-vindo+ao+meu+perfil+%E2%99%A1" alt="welcome"/>
 </div>
 
 ---
