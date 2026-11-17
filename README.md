@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/fd59f375-7540-44e2-9eec-10e166f58948" alt="banner" width="100%" />
 </div>
 
-<h1 align="center">## ⋆. 𐙚˚࿔ cibersecurity girl 𝜗𝜚˚⋆</h1>
+<h1 align="center">## ⋆. 𐙚˚࿔ It girl 𝜗𝜚˚⋆</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=560&height=40&lines=Hi!+Welcome+to+my+profile+%E2%99%A1;Boas-vindas+ao+meu+perfil+%E2%99%A1" alt="welcome"/>
