@@ -12,20 +12,16 @@
 
 ### ⋆｡˚ ◌ About me · Sobre mim ◌ ˚｡⋆
 
-╰──➤ Hello! I'm Scarlletti, a 23-year-old software development student in my
-final semester of Systems Analysis and Development. I love creating cute,
-functional applications — and now I'm bringing that same curiosity to
-cybersecurity, learning through CTFs and hands-on labs.
+╰──➤ Hello! I'm Scarlletti, a 23-year-old junior software developer. I love building cute, functional applications, and I'm now exploring the world of cybersecurity through CTF challenges and hands-on labs.
 
-╰──➤ Currently looking for internship/junior opportunities in security, where
+╰──➤ Currently looking for opportunities in security, where
 my dev background helps me read code the way an attacker would.
 
-*╰──➤ Oi! Eu sou a Scarlletti, tenho 23 anos e estou no último semestre de
-Análise e Desenvolvimento de Sistemas. Amo criar aplicações fofas e
+*╰──➤ Oi! Eu sou a Scarlletti, tenho 23 anos e sou uma desenvolvedora de software júnior. Amo criar aplicações fofas e
 funcionais — e agora levo essa curiosidade para a cibersegurança, aprendendo
 com CTFs e laboratórios práticos.*
 
-*╰──➤ Em busca de oportunidades de estágio/júnior em segurança, onde minha
+*╰──➤ Em busca de oportunidades em segurança, onde minha
 base em dev me ajuda a enxergar o código como um atacante enxergaria.*
 
 Follow my journey and check out my projects below. ♥
